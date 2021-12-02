@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "desafio_marvelApi",
+    "slug": "desafio_marvelApi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "desafio_marvelApi"
+}
